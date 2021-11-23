@@ -1,1 +1,1 @@
-# priscila-albertini-ciandt
+# poc-go-rabbitmq-publisher
